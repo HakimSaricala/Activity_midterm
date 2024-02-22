@@ -1,0 +1,12 @@
+
+body{
+  background-color: beige;
+}
+h3{
+  text-align: center;
+}
+p{
+  display: flex;
+  justify-content: center;
+
+}
